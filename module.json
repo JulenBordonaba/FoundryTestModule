@@ -3,19 +3,20 @@
 	"name": "JBTestModule",
 	"title": "TestModule - An Example FVTT Module",
 	"description": "A simple module created as a demo for working in the Foundry Virtual Tabletop framework.",
-	"authors": [
-		{
-			"name": "JulenBordonaba"
-		}
-	],
+	"author": "JulenBordonaba",
 	"url": "https://github.com/JulenBordonaba/FoundryTestModule",
 	"license": "https://github.com/JulenBordonaba/FoundryTestModule/blob/main/LICENSE",
 	"readme": "https://github.com/arcanistzed/acelib/blob/main/README.md",
 	"bugs": "https://github.com/arcanistzed/acelib/issues/new/choose",
 	"changelog": "https://github.com/arcanistzed/acelib/blob/main/CHANGELOG.md",
+	"flags": {
+		"allowBugReporter": true
+	},
 	"version": "1.0.0",
 	"compatibility": {
-		"minimum": "9",
-		"verified": "9"
-	}
+		"minimum": "9.0.0",
+		"verified": "9.0.0"
+	},
+	"manifest": "https://github.com/JulenBordonaba/FoundryTestModule/releases/download/Latest/module.json",
+	"download": "https://github.com/JulenBordonaba/FoundryTestModule/releases/download/Latest/module.zip"
 }
