@@ -8,6 +8,8 @@
     "name": "JulenBordonaba"
     }
     ],
+  "url": "https://github.com/JulenBordonaba/FoundryTestModule",
+    "license": "https://github.com/JulenBordonaba/FoundryTestModule/blob/main/LICENSE",
   "version": "1.0.0",
   "compatibility": {
     "minimum": "9",
